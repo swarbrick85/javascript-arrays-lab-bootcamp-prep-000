@@ -21,3 +21,6 @@ function prependKitten(name) {
   var temp = [name,...kittens]
   return temp
 }
+function removeLastKitten() {
+  var temp = 
+}
